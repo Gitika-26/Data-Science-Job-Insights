@@ -44,4 +44,8 @@ The dataset used for this project contains real-world data science job informati
 ### 🗺️ Salary With Respect to Job Type - Histogram
 ![median_salary](https://github.com/user-attachments/assets/d75adbf8-e818-49f2-a3b6-9490c4e30212)
 
+## Conclusion
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+
+
 
