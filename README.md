@@ -1,7 +1,7 @@
 # DATA SCIENCE JOBS ANALYTICS DASHBOARD
 
 
-![1_Salary_Dashboard.mp4](https://github.com/user-attachments/assets/56615190-05aa-4f8e-bd00-5976c36db863)
+https://github.com/user-attachments/assets/56615190-05aa-4f8e-bd00-5976c36db863
 
 ## Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
