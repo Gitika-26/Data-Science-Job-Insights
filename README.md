@@ -2,7 +2,11 @@
 # DATA SCIENCE JOBS ANALYTICS DASHBOARD
 
 
-https://github.com/user-attachments/assets/56615190-05aa-4f8e-bd00-5976c36db863
+
+
+https://github.com/user-attachments/assets/b62e9eac-11e8-4f52-bcae-b9cbfee9dbd7
+
+
 
 ## Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
@@ -28,21 +32,23 @@ The dataset used for this project contains real-world data science job informati
 ## Dashboard Build
 
 ### 📊 Data Science Job Salaries - Bar Chart
-![job_salaries](https://github.com/user-attachments/assets/a5d0b969-f05d-47c9-aa35-6450b4e2c18a)
+![Screenshot 2025-03-29 213926](https://github.com/user-attachments/assets/a953d19d-9b1d-4b78-a0a8-8ed0101159b2)
+
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 ### 🗺️ Country Median Salaries - Map Chart
-![country_map](https://github.com/user-attachments/assets/9c09da95-cec5-464a-a454-2e2571bf8f9f)
+![Screenshot 2025-03-29 214130](https://github.com/user-attachments/assets/a085c37a-e9d6-4d0a-b88b-9c6d3e304eea)
+
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 ### 🗺️ Salary With Respect to Job Type - Histogram
-![median_salary](https://github.com/user-attachments/assets/d75adbf8-e818-49f2-a3b6-9490c4e30212)
+![Screenshot 2025-03-29 214145](https://github.com/user-attachments/assets/c063ba3e-24f5-4b12-90c1-d839fe13d5a1)
 
 ## Conclusion
 I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
