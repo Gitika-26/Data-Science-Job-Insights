@@ -50,7 +50,7 @@ The dataset used for this project contains real-world data science job informati
 - 📉 **Data Organization:** Sorted job titles by descending salary for improved readability.
 - 💡 **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-### 🗺️ Salary With Respect to Job Type - Histogram
+### 🗺️ Salary With Respect to Job Type - Bar Chart
 ![Screenshot 2025-03-29 214145](https://github.com/user-attachments/assets/c063ba3e-24f5-4b12-90c1-d839fe13d5a1)
 
 ###  🧮 Formulas and Functions
